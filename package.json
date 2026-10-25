@@ -1,7 +1,6 @@
 {
   "name": "meu-backend-pix",
   "version": "1.0.0",
-  "description": "API intermediaria de pagamentos Pix",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -12,3 +11,4 @@
     "node-fetch": "^2.7.0"
   }
 }
+    
